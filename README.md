@@ -1,0 +1,2 @@
+# hmmetariboseq
+HMM for Metaribosq
